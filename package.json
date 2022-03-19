@@ -1,0 +1,8 @@
+{
+  "name": "magiceden-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yonabe710/Magic-Eden-extension.git",
+  "author": "yonabe710",
+  "license": "MIT"
+}
